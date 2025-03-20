@@ -91,4 +91,4 @@ python main.py --question "What are the top 5 best-selling products?"
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details. # AI-Powered-Retrieval-System-with-PostgreSQL-and-Offline-LLM
