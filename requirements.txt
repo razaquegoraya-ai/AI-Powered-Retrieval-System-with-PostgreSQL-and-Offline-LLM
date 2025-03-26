@@ -1,0 +1,12 @@
+ langchain==0.1.12
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.27
+transformers==4.38.2
+torch==2.2.1
+sentence-transformers==2.5.1
+python-dotenv==1.0.1
+faker==24.2.0  # For generating sample data
+tqdm==4.66.2
+ctransformers==0.2.27  # For running quantized models
+chromadb==0.4.22
+pydantic==2.6.3
